@@ -1,5 +1,10 @@
 # Neptune Exporter
 
+
+Note -- pass the --rich arg to upload rich media in W&B format 
+
+
+
 Neptune Exporter is a CLI tool to move Neptune experiments (version `2.x` or `3.x`) to disk as parquet and files, with an option to load them into MLflow or Weights & Biases.
 
 ## What it does
